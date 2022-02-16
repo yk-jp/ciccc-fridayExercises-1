@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8e50030-874d-4c49-afd1-e27f21f36fa7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/week1/forloops/CountingMachine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week1/forloops/FizzBuzz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week1/ifstatements/HowOldAreYouSpecifically.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week1/keyboardinput/AgeInFiveYears.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week1/keyboardinput/NameAgeSalary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week1/variables/StillUsingVariables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week1/whileloops/AddingValuesInLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week1/classes/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week1/classes/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +37,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.FizzBuzz">
+  <component name="RunManager" selected="Application.Driver">
     <configuration name="AddingValuesInLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week1.whileloops.AddingValuesInLoop" />
       <module name="ciccc-fridayExercises-1" />
@@ -55,12 +51,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AgeInFiveYears" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week1.keyboardinput.AgeInFiveYears" />
+    <configuration name="CountingMachine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week1.forloops.CountingMachine" />
       <module name="ciccc-fridayExercises-1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week1.keyboardinput.*" />
+          <option name="PATTERN" value="week1.forloops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +64,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CountingMachine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week1.forloops.CountingMachine" />
+    <configuration name="Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week1.classes.Driver" />
       <module name="ciccc-fridayExercises-1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week1.forloops.*" />
+          <option name="PATTERN" value="week1.classes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Driver" />
         <item itemvalue="Application.FizzBuzz" />
         <item itemvalue="Application.CountingMachine" />
         <item itemvalue="Application.AddingValuesInLoop" />
         <item itemvalue="Application.HowOldAreYouSpecifically" />
-        <item itemvalue="Application.AgeInFiveYears" />
       </list>
     </recent_temporary>
   </component>
